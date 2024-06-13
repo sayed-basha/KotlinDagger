@@ -1,1 +1,1 @@
-this project create or build apk
+this project build apk
